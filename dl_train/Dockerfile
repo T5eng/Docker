@@ -1,6 +1,6 @@
 FROM tensorflow/tensorflow:1.15.0-gpu-py3
 
-MAINTAINER zengzihua (edvard_hua@live.com)
+MAINTAINER zengyubin (bz.zeng@gmail.com)
 
 # pip source
 ENV DOUBAN_SOURCE="https://pypi.douban.com/simple"

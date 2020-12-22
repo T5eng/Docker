@@ -1,6 +1,6 @@
 FROM dl_train:latest
 
-MAINTAINER zengzihua (edvard_hua@live.com)
+MAINTAINER zengyubin (bz.zeng@gmail.com)
 
 # Install java&hadoop environment
 RUN { \

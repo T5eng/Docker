@@ -25,7 +25,7 @@ RUN pip install jupyterlab \
                 porsche \
                 torchvision==0.5.0 \
                 easydict \
-                tensorflow==1.14.0 \
+                tensorflow==1.15.0 \
                 scipy==1.2.1
 
 RUN apt-get update && apt-get install -yq g++ 
